@@ -1,27 +1,19 @@
 {
   "files": {
-    "app.js": "/expo-gh-pages/static/js/app.2bd10423.chunk.js",
-    "app.js.map": "/expo-gh-pages/static/js/app.2bd10423.chunk.js.map",
-    "runtime~app.js": "/expo-gh-pages/static/js/runtime~app.57d3d678.js",
-    "runtime~app.js.map": "/expo-gh-pages/static/js/runtime~app.57d3d678.js.map",
-    "static/js/2.f15f7fbe.chunk.js": "/expo-gh-pages/static/js/2.f15f7fbe.chunk.js",
-    "static/js/2.f15f7fbe.chunk.js.map": "/expo-gh-pages/static/js/2.f15f7fbe.chunk.js.map",
-    "favicon-16.png": "/expo-gh-pages/favicon-16.png",
-    "favicon-32.png": "/expo-gh-pages/favicon-32.png",
-    "favicon.ico": "/expo-gh-pages/favicon.ico",
-    "index.html": "/expo-gh-pages/index.html",
-    "manifest.json": "/expo-gh-pages/manifest.json",
-    "serve.json": "/expo-gh-pages/serve.json",
-    "static/js/2.f15f7fbe.chunk.js.LICENSE.txt": "/expo-gh-pages/static/js/2.f15f7fbe.chunk.js.LICENSE.txt",
-    "static/media/close_dark.png": "/expo-gh-pages/static/media/close_dark.eb690583.png",
-    "static/media/close_light.png": "/expo-gh-pages/static/media/close_light.d58a0fe5.png",
-    "static/media/dots_dark.png": "/expo-gh-pages/static/media/dots_dark.a61949cf.png",
-    "static/media/dots_light.png": "/expo-gh-pages/static/media/dots_light.af1f86ff.png",
-    "static/media/left_arrow_light.png": "/expo-gh-pages/static/media/left_arrow_light.1dbf384b.png"
+    "app.js": "/static/js/bundle.js",
+    "app.js.map": "/static/js/bundle.js.map",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "static/media/close_dark.png": "/static/media/close_dark.eb690583.png",
+    "static/media/close_light.png": "/static/media/close_light.d58a0fe5.png",
+    "static/media/dots_dark.png": "/static/media/dots_dark.a61949cf.png",
+    "static/media/dots_light.png": "/static/media/dots_light.af1f86ff.png",
+    "static/media/left_arrow_light.png": "/static/media/left_arrow_light.1dbf384b.png"
   },
   "entrypoints": [
-    "static/js/runtime~app.57d3d678.js",
-    "static/js/2.f15f7fbe.chunk.js",
-    "static/js/app.2bd10423.chunk.js"
+    "static/js/bundle.js"
   ]
 }

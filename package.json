@@ -9,6 +9,7 @@
     "eject": "expo eject",
     "deploy": "gh-pages -d web-build",
     "predeploy": "expo build:web"
+    
   },
   
   "dependencies": {
